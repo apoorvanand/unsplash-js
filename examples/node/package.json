@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "babel-register": "6.6.5",
-    "node-fetch": "1.5.0",
+    "node-fetch": "2.6.1",
     "universal-config": "0.1.0",
     "unsplash-js": "../.."
   }
